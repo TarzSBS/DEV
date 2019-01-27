@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#59150C",
+        "titleBar.activeBackground": "#7C1D11",
+        "titleBar.activeForeground": "#FFFCFC"
+    },
+    "editor.wordWrap": "on",
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.pythonPath": "C:\\Anaconda3\\python.exe",
+
+}
